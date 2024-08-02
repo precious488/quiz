@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+
+}
+.main4 {
+    justify-content: center;
+    background-color: white;
+    width: 50%;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
